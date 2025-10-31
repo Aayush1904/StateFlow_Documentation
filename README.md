@@ -52,7 +52,7 @@ New to Stateflow? Start here:
 
 ## Project Overview
 
-**Stateflow** is a B2B project management platform that provides:
+**Stateflow** is a project management platform that provides:
 
 - **Workspace Management**: Create and manage workspaces for teams
 - **Project Organization**: Organize work into projects with tasks and pages
