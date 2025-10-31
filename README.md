@@ -85,11 +85,4 @@ New to Stateflow? Start here:
 - **Editor Features**: See [Editor Structure](./editor-structure-collaboration.md)
 - **Feature Requests**: Review [Future Improvements](./known-limitations-future-improvements.md)
 
-## Contributing
-
-Interested in contributing? Check out the "Contributing" section in [Known Limitations and Future Improvements](./known-limitations-future-improvements.md) for areas where help is needed.
-
----
-
-**Last Updated**: December 2024
 
