@@ -1,6 +1,6 @@
 # Stateflow Documentation
 
-Welcome to the Stateflow documentation! This folder contains comprehensive documentation for the Stateflow B2B project management platform.
+Welcome to the Stateflow documentation! This folder contains comprehensive documentation for the Stateflow project management platform.
 
 ## Documentation Index
 
